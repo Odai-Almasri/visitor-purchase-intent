@@ -2,7 +2,7 @@
 
 Most online-store visitors leave without buying. This project predicts from a browsing session whether the visitor will purchase, and recommends an on-site action (**no action / show coupon / show chat assistant**) so discounts go only where they matter.
 
-**🔗 Live app:** `PASTE_STREAMLIT_LINK_HERE`
+**🔗 Live app:** https://visitor-purchase-intent-xcaj9zynnl8x7eaqepqgco.streamlit.app
 
 ![App screenshot](screenshot.png)
 
